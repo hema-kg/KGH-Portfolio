@@ -1,43 +1,83 @@
-<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    <header class="modern-header">
+        <div class="container nav-flex">
+            <div class="logo">Hemalatha KG</div>
+            <nav>
+                <ul class="nav-list">
+                    <li><a href="#about"><i class="fa-solid fa-user"></i> About</a></li>
+                    <li><a href="#projects"><i class="fa-solid fa-laptop-code"></i> Projects</a></li>
+                    <li><a href="#contact"><i class="fa-solid fa-envelope"></i> Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="container hero-content">
+                <!-- <img src="imgs/my-pic.jpeg" alt="Profile" class="profile-img" /> -->
+                <h1>Hello, I'm <span class="highlight">Hemalatha KG</span></h1>
+                <p class="subtitle">A passionate <b>Web Developer</b> & <b>Designer</b></p>
+                <a href="#projects" class="btn primary-btn">View My Work</a>
+            </div>
+        </section>
+        <section id="about" class="section modern-section">
+            <h2>About Me</h2>
+            <p>
+                I am a creative developer with a passion for building beautiful and functional web experiences.
+                I love working with modern technologies and always strive to learn more.
+            </p>
+            <div class="skills">
+                <span class="skill-badge">HTML5</span>
+                <span class="skill-badge">CSS3</span>
+                <span class="skill-badge">JavaScript</span>
+                <span class="skill-badge">React</span>
+                <span class="skill-badge">Node.js</span>
+            </div>
+        </section>
+        <section id="projects" class="section modern-section">
+            <h2>Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <i class="fa-solid fa-store project-icon"></i>
+                    <h3>Whack a Mole</h3>
+                    <p>A Game built with React and Node.js.</p>
+                    <a href="#" class="project-link">View Project</a>
+                </div>
+                <div class="project-card">
+                    <i class="fa-solid fa-list-check project-icon"></i>
+                    <h3>ZC Utilities</h3>
+                    <p>Internal utility tools collection built using reusable React and Node.js components for improved development workflow..</p>
+                    <a href="#" class="project-link">View Project</a>
+                </div>
+                <div class="project-card">
+                    <i class="fa-solid fa-cloud-sun project-icon"></i>
+                    <h3>Contact Management</h3>
+                    <p>Full-stack contact management application with CRUD operations, authentication, and role-based access control.</p>
+                    <a href="#" class="project-link">View Project</a>
+                </div>
+            </div>
+        </section>
+        <section id="contact" class="section modern-section">
+            <h2>Contact</h2>
+            <p>Let's connect! Reach me at <a href="mailto:myemail@example.com">hemalathakg7@gmail.com</a> or via social links below.</p>
+            <div class="social-links">
+                <a href="#" class="social-btn"><i class="fab fa-linkedin"></i></a>
+                <a href="#" class="social-btn"><i class="fab fa-github"></i></a>
+                <a href="#" class="social-btn"><i class="fab fa-twitter"></i></a>
+            </div>
+        </section>
+    </main>
+    <footer class="footer modern-footer">
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+    <script src="scripts/app.js"></script>
+</body>
 </html>
