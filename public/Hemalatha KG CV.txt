@@ -1,0 +1,55 @@
+Hemalatha KG
+?? 8496074205
+?? hemalathakg7@gmail.com
+?? Davangere, Karnataka
+https://www.linkedin.com/in/hemalatha-k-g-0b9822156/ | https://github.com/hema-kg/
+
+Professional Summary
+Results-driven Full Stack Developer with 6 years of experience specializing in React.js, Node.js, RESTful APIs, and MySQL. Proven track record in leading teams, driving projects from planning to deployment, and leveraging GitHub Copilot to enhance development productivity. Adept at delivering clean, maintainable code in agile environments. Currently leading a development team with a strong focus on collaboration and performance.
+Note: No prior experience with Redux.
+
+Technical Skills
+* Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+* Backend: Node.js, Express.js
+* Database: MySQL, MongoDB (basic)
+* Tools & Platforms: Git, GitHub, GitHub Copilot, Postman, VS Code
+* APIs: RESTful API Design & Integration
+* Project Management: Agile/Scrum, Jira, Trello
+* Other: Basic Docker knowledge, JWT Auth, CI/CD concepts
+
+Professional Experience
+Team Lead | Full Stack Developer
+Threshold Software Solutions, Hyderabad - June, 2019 - Present
+* Led a cross-functional team of 5 developers in building enterprise-grade web applications using React and Node.js.
+* Implemented REST APIs for large-scale data interaction, optimizing query performance with advanced MySQL techniques.
+* Used GitHub Copilot to accelerate code scaffolding and improve development speed by ~25%.
+* Conducted code reviews, mentored junior developers, and facilitated daily stand-ups and sprint planning.
+* Successfully deployed 10+ major releases without regressions, ensuring quality through automated testing and CI practices.
+Software Developer
+Threshold Software Solutions, Hyderabad - June, 2019 - Present
+* Developed responsive user interfaces with React.js, integrating dynamic components and reusable libraries.
+* Built scalable backend services with Node.js and Express.js, including user authentication and role-based access control.
+* Worked closely with QA and DevOps teams to maintain high-quality standards across all deployments.
+* Created and maintained RESTful APIs that supported multiple client apps.
+* Utilized MySQL for relational data modeling and optimized queries for performance.
+
+Education
+Bachelor of Technology (B.Tech) in Computer Science
+UBDT College of Engineering, Davangere, Karnataka- 2017
+
+Projects Highlights
+* Inventory Management System - Led the development of a full-stack inventory platform with role-based dashboards.
+* Client Onboarding Portal - Designed and implemented a seamless client intake system using React and REST APIs.
+* Reporting Dashboard - Created a custom analytics dashboard using chart libraries and optimized MySQL queries.
+
+Strengths
+* Strong leadership and mentorship skills
+* Clear communicator with cross-functional teams
+* Quick learner with GitHub Copilot and new tooling
+* Strong focus on clean, scalable code
+* Committed to continuous learning and improvement
+
+Languages
+* English (Professional)
+* Kannada, Telugu
+

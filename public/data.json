@@ -1,0 +1,75 @@
+{
+  "name": "Hemalatha KG",
+  "phone": "8496074205",
+  "email": "hemalathakg7@gmail.com",
+  "location": "Davangere, Karnataka",
+  "linkedin": "https://www.linkedin.com/in/hemalatha-k-g-0b9822156/",
+  "github": "https://github.com/hema-kg/",
+  "summary": "Results-driven Full Stack Developer with 6 years of experience specializing in React.js, Node.js, RESTful APIs, and MySQL. Proven track record in leading teams and delivering production-ready applications from planning to deployment. Adept at creating maintainable code in agile environments while using GitHub Copilot to accelerate productivity. Strong collaborator with experience driving cross-functional delivery, performance tuning, and resume-worthy project execution.",
+  "technicalSkills": {
+    "frontend": ["React.js", "HTML5", "CSS3", "JavaScript (ES6+)", "Bootstrap", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js"],
+    "database": ["MySQL", "MongoDB (basic)"],
+    "toolsPlatforms": ["Git", "GitHub", "GitHub Copilot", "Postman", "VS Code"],
+    "apis": ["RESTful API Design & Integration"],
+    "projectManagement": ["Agile/Scrum", "Jira", "Trello"],
+    "other": ["Basic Docker knowledge", "JWT Auth", "CI/CD concepts"]
+  },
+  "experience": [
+    {
+      "title": "Team Lead | Full Stack Developer",
+      "company": "Threshold Software Solutions, Hyderabad",
+      "period": "June, 2019 - Present",
+      "responsibilities": [
+        "Led a cross-functional team of 5 developers in building enterprise-grade web applications using React and Node.js.",
+        "Implemented REST APIs for large-scale data interaction, optimizing query performance with advanced MySQL techniques.",
+        "Used GitHub Copilot to accelerate code scaffolding and improve development speed by ~25%.",
+        "Conducted code reviews, mentored junior developers, and facilitated daily stand-ups and sprint planning.",
+        "Successfully deployed 10+ major releases without regressions, ensuring quality through automated testing and CI practices."
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "Threshold Software Solutions, Hyderabad",
+      "period": "June, 2019 - Present",
+      "responsibilities": [
+        "Developed responsive user interfaces with React.js, integrating dynamic components and reusable libraries.",
+        "Built scalable backend services with Node.js and Express.js, including user authentication and role-based access control.",
+        "Worked closely with QA and DevOps teams to maintain high-quality standards across all deployments.",
+        "Created and maintained RESTful APIs that supported multiple client apps.",
+        "Utilized MySQL for relational data modeling and optimized queries for performance."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+    "institution": "UBDT College of Engineering, Davangere, Karnataka",
+    "year": "2017"
+  },
+  "projects": [
+    {
+      "name": "Inventory Management System",
+      "description": "Led the development of a full-stack inventory platform with role-based dashboards."
+    },
+    {
+      "name": "Client Onboarding Portal",
+      "description": "Designed and implemented a seamless client intake system using React and REST APIs."
+    },
+    {
+      "name": "Reporting Dashboard",
+      "description": "Created a custom analytics dashboard using chart libraries and optimized MySQL queries."
+    }
+  ],
+  "strengths": [
+    "Strong leadership and mentorship skills",
+    "Clear communicator with cross-functional teams",
+    "Quick learner with GitHub Copilot and new tooling",
+    "Strong focus on clean, scalable code",
+    "Committed to continuous learning and improvement"
+  ],
+  "languages": [
+    "English (Professional)",
+    "Kannada",
+    "Telugu"
+  ]
+}
